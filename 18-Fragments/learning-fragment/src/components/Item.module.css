@@ -1,0 +1,11 @@
+.sr-item{
+    background-color: khaki;
+}
+.sr-span{
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    float: right;
+}
